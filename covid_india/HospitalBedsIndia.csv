@@ -1,5 +1,5 @@
-﻿Sno,State/UT,NumPrimaryHealthCenters_HMIS,NumCommunityHealthCenters_HMIS,NumSubDistrictHospitals_HMIS,NumDistrictHospitals_HMIS,TotalPublicHealthFacilities_HMIS,NumPublicBeds_HMIS,NumRuralHospitals_NHP18,NumRuralBeds_NHP18,NumUrbanHospitals_NHP18,NumUrbanBeds_NHP18
-1,Andaman & Nicobar Islands,27,4,,3,34,1246,27,575,3,500
+Sno,State/UT,NumPrimaryHealthCenters_HMIS,NumCommunityHealthCenters_HMIS,NumSubDistrictHospitals_HMIS,NumDistrictHospitals_HMIS,TotalPublicHealthFacilities_HMIS,NumPublicBeds_HMIS,NumRuralHospitals_NHP18,NumRuralBeds_NHP18,NumUrbanHospitals_NHP18,NumUrbanBeds_NHP18
+1,Andaman and Nicobar Islands,27,4,,3,34,1246,27,575,3,500
 2,Andhra Pradesh,1417,198,31,20,1666,60799,193,6480,65,16658
 3,Arunachal Pradesh,122,62,,15,199,2320,208,2136,10,268
 4,Assam,1007,166,14,33,1220,19115,1176,10944,50,6198
@@ -13,7 +13,7 @@
 12,Gujarat,1770,385,44,37,2236,41129,364,11715,122,20565
 13,Haryana,500,131,24,28,683,13841,609,6690,59,4550
 14,Himachal Pradesh,516,79,61,15,671,8706,705,5665,96,6734
-15,Jammu & Kashmir,702,87,,29,818,11342,56,7234,76,4417
+15,Jammu and Kashmir,702,87,,29,818,11342,56,7234,76,4417
 16,Jharkhand,343,179,13,23,558,7404,519,5842,36,4942
 17,Karnataka,2547,207,147,42,2943,56333,2471,21072,374,49093
 18,Kerala,933,229,82,53,1297,39511,981,16865,299,21139
@@ -35,4 +35,4 @@
 34,Uttar Pradesh,3277,671,,174,4122,58310,4442,39104,193,37156
 35,Uttarakhand,275,69,19,20,383,6660,410,3284,50,5228
 36,West Bengal,1374,406,70,55,1905,51163,1272,19684,294,58882
-37,All India,"29,899",5568,1255,1003,37725,739024,19810,279588,3772,431173
+37,All India,29899,5568,1255,1003,37725,739024,19810,279588,3772,431173
